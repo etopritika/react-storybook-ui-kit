@@ -110,5 +110,3 @@ src/
 - `defaultValue` on `Input` sets the **initial value only** (on first mount).
 - Toast close timing is tied to the end of the **transition** to ensure consistent `onClose`.
 - Sidebar closes via **backdrop click** and supports nested expand/collapse.
-
----
